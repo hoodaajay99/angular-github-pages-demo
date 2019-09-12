@@ -4,7 +4,7 @@ You'll learn to deploy an Angular application to GitHub Pages.
 
 > Github pages allows you to host static websites and web apps for free using the same workflow you use to host repositories, you just commit and push. Build and Deploying of static website to GitHub Pages can be automated. You can even associate a custom top level domain name to your website or web app by adding a CNAME file.
 
-# Demo
+## Demo
 
 https://hoodaajay99.github.io/angular-github-pages-demo/
 
